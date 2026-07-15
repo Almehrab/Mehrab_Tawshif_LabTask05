@@ -1,0 +1,5925 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.78442,
+          49.20555
+        ]
+      },
+      "properties": {
+        "ID": 1,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Theatre",
+        "Floor_Area_sqm": 465,
+        "Daily_Foot_Traffic": 1995,
+        "Community_Impact_Score": 79,
+        "Annual_Revenue_k": 1037
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.78864,
+          49.20323
+        ]
+      },
+      "properties": {
+        "ID": 2,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Restaurant",
+        "Floor_Area_sqm": 222,
+        "Daily_Foot_Traffic": 1891,
+        "Community_Impact_Score": 66,
+        "Annual_Revenue_k": 233
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91274,
+          49.15874
+        ]
+      },
+      "properties": {
+        "ID": 3,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Software Firm",
+        "Floor_Area_sqm": 596,
+        "Daily_Foot_Traffic": 665,
+        "Community_Impact_Score": 47,
+        "Annual_Revenue_k": 3165
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79028,
+          49.20023
+        ]
+      },
+      "properties": {
+        "ID": 4,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Theatre",
+        "Floor_Area_sqm": 166,
+        "Daily_Foot_Traffic": 1193,
+        "Community_Impact_Score": 92,
+        "Annual_Revenue_k": 231
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70319,
+          49.24512
+        ]
+      },
+      "properties": {
+        "ID": 5,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Self-Storage",
+        "Floor_Area_sqm": 10460,
+        "Daily_Foot_Traffic": 415,
+        "Community_Impact_Score": 13,
+        "Annual_Revenue_k": 4487
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84916,
+          49.18218
+        ]
+      },
+      "properties": {
+        "ID": 6,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Cafe",
+        "Floor_Area_sqm": 286,
+        "Daily_Foot_Traffic": 2072,
+        "Community_Impact_Score": 78,
+        "Annual_Revenue_k": 618
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.89803,
+          49.16487
+        ]
+      },
+      "properties": {
+        "ID": 7,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Software Firm",
+        "Floor_Area_sqm": 867,
+        "Daily_Foot_Traffic": 569,
+        "Community_Impact_Score": 41,
+        "Annual_Revenue_k": 4290
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90704,
+          49.15865
+        ]
+      },
+      "properties": {
+        "ID": 8,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Consulting Firm",
+        "Floor_Area_sqm": 895,
+        "Daily_Foot_Traffic": 547,
+        "Community_Impact_Score": 49,
+        "Annual_Revenue_k": 2442
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84647,
+          49.18492
+        ]
+      },
+      "properties": {
+        "ID": 9,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Grocery",
+        "Floor_Area_sqm": 86,
+        "Daily_Foot_Traffic": 2154,
+        "Community_Impact_Score": 85,
+        "Annual_Revenue_k": 136
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68811,
+          49.24724
+        ]
+      },
+      "properties": {
+        "ID": 10,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Manufacturing Plant",
+        "Floor_Area_sqm": 17059,
+        "Daily_Foot_Traffic": 455,
+        "Community_Impact_Score": 11,
+        "Annual_Revenue_k": 10117
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68369,
+          49.24553
+        ]
+      },
+      "properties": {
+        "ID": 11,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Distribution Center",
+        "Floor_Area_sqm": 22215,
+        "Daily_Foot_Traffic": 358,
+        "Community_Impact_Score": 12,
+        "Annual_Revenue_k": 11287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.78327,
+          49.19884
+        ]
+      },
+      "properties": {
+        "ID": 12,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Art Gallery",
+        "Floor_Area_sqm": 331,
+        "Daily_Foot_Traffic": 1778,
+        "Community_Impact_Score": 78,
+        "Annual_Revenue_k": 279
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69585,
+          49.25365
+        ]
+      },
+      "properties": {
+        "ID": 13,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Distribution Center",
+        "Floor_Area_sqm": 19326,
+        "Daily_Foot_Traffic": 388,
+        "Community_Impact_Score": 26,
+        "Annual_Revenue_k": 13010
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69988,
+          49.24758
+        ]
+      },
+      "properties": {
+        "ID": 14,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Distribution Center",
+        "Floor_Area_sqm": 15539,
+        "Daily_Foot_Traffic": 396,
+        "Community_Impact_Score": 24,
+        "Annual_Revenue_k": 7725
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.71809,
+          49.13822
+        ]
+      },
+      "properties": {
+        "ID": 15,
+        "Neighborhood": "Unzoned",
+        "Category": "Office",
+        "Subcategory": "Fintech Office",
+        "Floor_Area_sqm": 2965,
+        "Daily_Foot_Traffic": 222,
+        "Community_Impact_Score": 56,
+        "Annual_Revenue_k": 1891
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84479,
+          49.17892
+        ]
+      },
+      "properties": {
+        "ID": 16,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Clothing",
+        "Floor_Area_sqm": 193,
+        "Daily_Foot_Traffic": 1793,
+        "Community_Impact_Score": 81,
+        "Annual_Revenue_k": 508
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84568,
+          49.18035
+        ]
+      },
+      "properties": {
+        "ID": 17,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Grocery",
+        "Floor_Area_sqm": 249,
+        "Daily_Foot_Traffic": 1003,
+        "Community_Impact_Score": 69,
+        "Annual_Revenue_k": 797
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96575,
+          49.13068
+        ]
+      },
+      "properties": {
+        "ID": 18,
+        "Neighborhood": "Unzoned",
+        "Category": "Industrial",
+        "Subcategory": "Self-Storage",
+        "Floor_Area_sqm": 11017,
+        "Daily_Foot_Traffic": 1079,
+        "Community_Impact_Score": 43,
+        "Annual_Revenue_k": 12377
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70153,
+          49.24394
+        ]
+      },
+      "properties": {
+        "ID": 19,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Cold Storage",
+        "Floor_Area_sqm": 18231,
+        "Daily_Foot_Traffic": 360,
+        "Community_Impact_Score": 12,
+        "Annual_Revenue_k": 9446
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69592,
+          49.24098
+        ]
+      },
+      "properties": {
+        "ID": 20,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Distribution Center",
+        "Floor_Area_sqm": 5363,
+        "Daily_Foot_Traffic": 403,
+        "Community_Impact_Score": 13,
+        "Annual_Revenue_k": 3108
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91393,
+          49.1558
+        ]
+      },
+      "properties": {
+        "ID": 21,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Biotech Lab",
+        "Floor_Area_sqm": 1301,
+        "Daily_Foot_Traffic": 607,
+        "Community_Impact_Score": 40,
+        "Annual_Revenue_k": 5388
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90522,
+          49.15829
+        ]
+      },
+      "properties": {
+        "ID": 22,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Consulting Firm",
+        "Floor_Area_sqm": 592,
+        "Daily_Foot_Traffic": 703,
+        "Community_Impact_Score": 44,
+        "Annual_Revenue_k": 3389
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.83943,
+          49.17589
+        ]
+      },
+      "properties": {
+        "ID": 23,
+        "Neighborhood": "Unzoned",
+        "Category": "Office",
+        "Subcategory": "Consulting Firm",
+        "Floor_Area_sqm": 1069,
+        "Daily_Foot_Traffic": 350,
+        "Community_Impact_Score": 35,
+        "Annual_Revenue_k": 1808
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69108,
+          49.25125
+        ]
+      },
+      "properties": {
+        "ID": 24,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Cold Storage",
+        "Floor_Area_sqm": 15099,
+        "Daily_Foot_Traffic": 367,
+        "Community_Impact_Score": 23,
+        "Annual_Revenue_k": 11747
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84442,
+          49.18218
+        ]
+      },
+      "properties": {
+        "ID": 25,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Bookstore",
+        "Floor_Area_sqm": 224,
+        "Daily_Foot_Traffic": 1903,
+        "Community_Impact_Score": 92,
+        "Annual_Revenue_k": 373
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.71015,
+          49.25383
+        ]
+      },
+      "properties": {
+        "ID": 26,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Manufacturing Plant",
+        "Floor_Area_sqm": 11942,
+        "Daily_Foot_Traffic": 360,
+        "Community_Impact_Score": 13,
+        "Annual_Revenue_k": 5789
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84208,
+          49.18957
+        ]
+      },
+      "properties": {
+        "ID": 27,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Grocery",
+        "Floor_Area_sqm": 87,
+        "Daily_Foot_Traffic": 2613,
+        "Community_Impact_Score": 86,
+        "Annual_Revenue_k": 97
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90157,
+          49.15328
+        ]
+      },
+      "properties": {
+        "ID": 28,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Software Firm",
+        "Floor_Area_sqm": 490,
+        "Daily_Foot_Traffic": 652,
+        "Community_Impact_Score": 47,
+        "Annual_Revenue_k": 2740
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70979,
+          49.22925
+        ]
+      },
+      "properties": {
+        "ID": 29,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Self-Storage",
+        "Floor_Area_sqm": 19946,
+        "Daily_Foot_Traffic": 361,
+        "Community_Impact_Score": 15,
+        "Annual_Revenue_k": 11694
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8401,
+          49.18023
+        ]
+      },
+      "properties": {
+        "ID": 30,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Grocery",
+        "Floor_Area_sqm": 137,
+        "Daily_Foot_Traffic": 2512,
+        "Community_Impact_Score": 78,
+        "Annual_Revenue_k": 356
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.83596,
+          49.19027
+        ]
+      },
+      "properties": {
+        "ID": 31,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Electronics",
+        "Floor_Area_sqm": 71,
+        "Daily_Foot_Traffic": 1613,
+        "Community_Impact_Score": 91,
+        "Annual_Revenue_k": 176
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.83745,
+          49.18679
+        ]
+      },
+      "properties": {
+        "ID": 32,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Electronics",
+        "Floor_Area_sqm": 306,
+        "Daily_Foot_Traffic": 1941,
+        "Community_Impact_Score": 64,
+        "Annual_Revenue_k": 1021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84061,
+          49.18973
+        ]
+      },
+      "properties": {
+        "ID": 33,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Bookstore",
+        "Floor_Area_sqm": 300,
+        "Daily_Foot_Traffic": 1683,
+        "Community_Impact_Score": 63,
+        "Annual_Revenue_k": 650
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91226,
+          49.15908
+        ]
+      },
+      "properties": {
+        "ID": 34,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Software Firm",
+        "Floor_Area_sqm": 1269,
+        "Daily_Foot_Traffic": 690,
+        "Community_Impact_Score": 41,
+        "Annual_Revenue_k": 8170
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84002,
+          49.19157
+        ]
+      },
+      "properties": {
+        "ID": 35,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Electronics",
+        "Floor_Area_sqm": 233,
+        "Daily_Foot_Traffic": 1721,
+        "Community_Impact_Score": 85,
+        "Annual_Revenue_k": 255
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.65189,
+          49.23781
+        ]
+      },
+      "properties": {
+        "ID": 36,
+        "Neighborhood": "Unzoned",
+        "Category": "Retail",
+        "Subcategory": "Clothing",
+        "Floor_Area_sqm": 279,
+        "Daily_Foot_Traffic": 1762,
+        "Community_Impact_Score": 60,
+        "Annual_Revenue_k": 550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69341,
+          49.24673
+        ]
+      },
+      "properties": {
+        "ID": 37,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Manufacturing Plant",
+        "Floor_Area_sqm": 21845,
+        "Daily_Foot_Traffic": 423,
+        "Community_Impact_Score": 0,
+        "Annual_Revenue_k": 10211
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8347,
+          49.18692
+        ]
+      },
+      "properties": {
+        "ID": 38,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Cafe",
+        "Floor_Area_sqm": 199,
+        "Daily_Foot_Traffic": 2483,
+        "Community_Impact_Score": 84,
+        "Annual_Revenue_k": 675
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67322,
+          49.26265
+        ]
+      },
+      "properties": {
+        "ID": 39,
+        "Neighborhood": "Unzoned",
+        "Category": "Hospitality",
+        "Subcategory": "Bar",
+        "Floor_Area_sqm": 174,
+        "Daily_Foot_Traffic": 434,
+        "Community_Impact_Score": 89,
+        "Annual_Revenue_k": 177
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.78403,
+          49.20656
+        ]
+      },
+      "properties": {
+        "ID": 40,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Restaurant",
+        "Floor_Area_sqm": 447,
+        "Daily_Foot_Traffic": 1561,
+        "Community_Impact_Score": 67,
+        "Annual_Revenue_k": 501
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.78835,
+          49.20776
+        ]
+      },
+      "properties": {
+        "ID": 41,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Cafe",
+        "Floor_Area_sqm": 318,
+        "Daily_Foot_Traffic": 1465,
+        "Community_Impact_Score": 64,
+        "Annual_Revenue_k": 492
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90774,
+          49.15568
+        ]
+      },
+      "properties": {
+        "ID": 42,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Software Firm",
+        "Floor_Area_sqm": 404,
+        "Daily_Foot_Traffic": 458,
+        "Community_Impact_Score": 45,
+        "Annual_Revenue_k": 1563
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70924,
+          49.24577
+        ]
+      },
+      "properties": {
+        "ID": 43,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Self-Storage",
+        "Floor_Area_sqm": 20364,
+        "Daily_Foot_Traffic": 458,
+        "Community_Impact_Score": 6,
+        "Annual_Revenue_k": 13448
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.71,
+          49.23307
+        ]
+      },
+      "properties": {
+        "ID": 44,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Manufacturing Plant",
+        "Floor_Area_sqm": 9869,
+        "Daily_Foot_Traffic": 15,
+        "Community_Impact_Score": 19,
+        "Annual_Revenue_k": 5395
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69825,
+          49.23854
+        ]
+      },
+      "properties": {
+        "ID": 45,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Self-Storage",
+        "Floor_Area_sqm": 12896,
+        "Daily_Foot_Traffic": 403,
+        "Community_Impact_Score": 18,
+        "Annual_Revenue_k": 5162
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90334,
+          49.16556
+        ]
+      },
+      "properties": {
+        "ID": 46,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Fintech Office",
+        "Floor_Area_sqm": 1240,
+        "Daily_Foot_Traffic": 340,
+        "Community_Impact_Score": 41,
+        "Annual_Revenue_k": 5060
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.85071,
+          49.19173
+        ]
+      },
+      "properties": {
+        "ID": 47,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Grocery",
+        "Floor_Area_sqm": 301,
+        "Daily_Foot_Traffic": 1954,
+        "Community_Impact_Score": 77,
+        "Annual_Revenue_k": 1030
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.89664,
+          49.1476
+        ]
+      },
+      "properties": {
+        "ID": 48,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Consulting Firm",
+        "Floor_Area_sqm": 984,
+        "Daily_Foot_Traffic": 576,
+        "Community_Impact_Score": 29,
+        "Annual_Revenue_k": 4231
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69654,
+          49.24793
+        ]
+      },
+      "properties": {
+        "ID": 49,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Manufacturing Plant",
+        "Floor_Area_sqm": 13082,
+        "Daily_Foot_Traffic": 391,
+        "Community_Impact_Score": 17,
+        "Annual_Revenue_k": 7578
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.693,
+          49.24509
+        ]
+      },
+      "properties": {
+        "ID": 50,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Cold Storage",
+        "Floor_Area_sqm": 15595,
+        "Daily_Foot_Traffic": 360,
+        "Community_Impact_Score": 32,
+        "Annual_Revenue_k": 6889
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79041,
+          49.19736
+        ]
+      },
+      "properties": {
+        "ID": 51,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Restaurant",
+        "Floor_Area_sqm": 164,
+        "Daily_Foot_Traffic": 824,
+        "Community_Impact_Score": 71,
+        "Annual_Revenue_k": 214
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84985,
+          49.17855
+        ]
+      },
+      "properties": {
+        "ID": 52,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Clothing",
+        "Floor_Area_sqm": 318,
+        "Daily_Foot_Traffic": 2571,
+        "Community_Impact_Score": 82,
+        "Annual_Revenue_k": 680
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90651,
+          49.17053
+        ]
+      },
+      "properties": {
+        "ID": 53,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Software Firm",
+        "Floor_Area_sqm": 1596,
+        "Daily_Foot_Traffic": 796,
+        "Community_Impact_Score": 53,
+        "Annual_Revenue_k": 5657
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79873,
+          49.20408
+        ]
+      },
+      "properties": {
+        "ID": 54,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Cafe",
+        "Floor_Area_sqm": 87,
+        "Daily_Foot_Traffic": 1060,
+        "Community_Impact_Score": 76,
+        "Annual_Revenue_k": 195
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79051,
+          49.19535
+        ]
+      },
+      "properties": {
+        "ID": 55,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Restaurant",
+        "Floor_Area_sqm": 155,
+        "Daily_Foot_Traffic": 1754,
+        "Community_Impact_Score": 79,
+        "Annual_Revenue_k": 228
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91052,
+          49.16201
+        ]
+      },
+      "properties": {
+        "ID": 56,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Consulting Firm",
+        "Floor_Area_sqm": 969,
+        "Daily_Foot_Traffic": 510,
+        "Community_Impact_Score": 54,
+        "Annual_Revenue_k": 3654
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69715,
+          49.23471
+        ]
+      },
+      "properties": {
+        "ID": 57,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Cold Storage",
+        "Floor_Area_sqm": 24733,
+        "Daily_Foot_Traffic": 380,
+        "Community_Impact_Score": 6,
+        "Annual_Revenue_k": 10292
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7112,
+          49.23562
+        ]
+      },
+      "properties": {
+        "ID": 58,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Distribution Center",
+        "Floor_Area_sqm": 19325,
+        "Daily_Foot_Traffic": 341,
+        "Community_Impact_Score": 26,
+        "Annual_Revenue_k": 9879
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.80402,
+          49.20152
+        ]
+      },
+      "properties": {
+        "ID": 59,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Bar",
+        "Floor_Area_sqm": 438,
+        "Daily_Foot_Traffic": 2344,
+        "Community_Impact_Score": 79,
+        "Annual_Revenue_k": 733
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91353,
+          49.15994
+        ]
+      },
+      "properties": {
+        "ID": 60,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Software Firm",
+        "Floor_Area_sqm": 582,
+        "Daily_Foot_Traffic": 376,
+        "Community_Impact_Score": 34,
+        "Annual_Revenue_k": 3259
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.78865,
+          49.18561
+        ]
+      },
+      "properties": {
+        "ID": 61,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Theatre",
+        "Floor_Area_sqm": 423,
+        "Daily_Foot_Traffic": 15,
+        "Community_Impact_Score": 60,
+        "Annual_Revenue_k": 917
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79914,
+          49.19726
+        ]
+      },
+      "properties": {
+        "ID": 62,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Cafe",
+        "Floor_Area_sqm": 223,
+        "Daily_Foot_Traffic": 1269,
+        "Community_Impact_Score": 94,
+        "Annual_Revenue_k": 412
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70076,
+          49.24371
+        ]
+      },
+      "properties": {
+        "ID": 63,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Cold Storage",
+        "Floor_Area_sqm": 16902,
+        "Daily_Foot_Traffic": 355,
+        "Community_Impact_Score": 23,
+        "Annual_Revenue_k": 3840
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90329,
+          49.1625
+        ]
+      },
+      "properties": {
+        "ID": 64,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Biotech Lab",
+        "Floor_Area_sqm": 914,
+        "Daily_Foot_Traffic": 830,
+        "Community_Impact_Score": 39,
+        "Annual_Revenue_k": 4974
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90522,
+          49.16099
+        ]
+      },
+      "properties": {
+        "ID": 65,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Fintech Office",
+        "Floor_Area_sqm": 1020,
+        "Daily_Foot_Traffic": 427,
+        "Community_Impact_Score": 54,
+        "Annual_Revenue_k": 4744
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69721,
+          49.24565
+        ]
+      },
+      "properties": {
+        "ID": 66,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Manufacturing Plant",
+        "Floor_Area_sqm": 20538,
+        "Daily_Foot_Traffic": 387,
+        "Community_Impact_Score": 14,
+        "Annual_Revenue_k": 15629
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79366,
+          49.19705
+        ]
+      },
+      "properties": {
+        "ID": 67,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Bar",
+        "Floor_Area_sqm": 415,
+        "Daily_Foot_Traffic": 1357,
+        "Community_Impact_Score": 87,
+        "Annual_Revenue_k": 931
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6936,
+          49.24415
+        ]
+      },
+      "properties": {
+        "ID": 68,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Distribution Center",
+        "Floor_Area_sqm": 21016,
+        "Daily_Foot_Traffic": 391,
+        "Community_Impact_Score": 16,
+        "Annual_Revenue_k": 7778
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96695,
+          49.14515
+        ]
+      },
+      "properties": {
+        "ID": 69,
+        "Neighborhood": "Unzoned",
+        "Category": "Office",
+        "Subcategory": "Consulting Firm",
+        "Floor_Area_sqm": 145,
+        "Daily_Foot_Traffic": 440,
+        "Community_Impact_Score": 37,
+        "Annual_Revenue_k": 167
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69621,
+          49.23782
+        ]
+      },
+      "properties": {
+        "ID": 70,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Self-Storage",
+        "Floor_Area_sqm": 12846,
+        "Daily_Foot_Traffic": 355,
+        "Community_Impact_Score": 21,
+        "Annual_Revenue_k": 6952
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79858,
+          49.20021
+        ]
+      },
+      "properties": {
+        "ID": 71,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Restaurant",
+        "Floor_Area_sqm": 101,
+        "Daily_Foot_Traffic": 867,
+        "Community_Impact_Score": 79,
+        "Annual_Revenue_k": 210
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69948,
+          49.23908
+        ]
+      },
+      "properties": {
+        "ID": 72,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Distribution Center",
+        "Floor_Area_sqm": 11340,
+        "Daily_Foot_Traffic": 407,
+        "Community_Impact_Score": 17,
+        "Annual_Revenue_k": 5060
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.78669,
+          49.19191
+        ]
+      },
+      "properties": {
+        "ID": 73,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Restaurant",
+        "Floor_Area_sqm": 244,
+        "Daily_Foot_Traffic": 1321,
+        "Community_Impact_Score": 90,
+        "Annual_Revenue_k": 377
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84062,
+          49.18055
+        ]
+      },
+      "properties": {
+        "ID": 74,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Electronics",
+        "Floor_Area_sqm": 123,
+        "Daily_Foot_Traffic": 829,
+        "Community_Impact_Score": 72,
+        "Annual_Revenue_k": 230
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9074,
+          49.15769
+        ]
+      },
+      "properties": {
+        "ID": 75,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Biotech Lab",
+        "Floor_Area_sqm": 841,
+        "Daily_Foot_Traffic": 647,
+        "Community_Impact_Score": 41,
+        "Annual_Revenue_k": 4148
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79924,
+          49.1966
+        ]
+      },
+      "properties": {
+        "ID": 76,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Art Gallery",
+        "Floor_Area_sqm": 354,
+        "Daily_Foot_Traffic": 2284,
+        "Community_Impact_Score": 64,
+        "Annual_Revenue_k": 691
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.78723,
+          49.16688
+        ]
+      },
+      "properties": {
+        "ID": 77,
+        "Neighborhood": "Unzoned",
+        "Category": "Retail",
+        "Subcategory": "Electronics",
+        "Floor_Area_sqm": 15257,
+        "Daily_Foot_Traffic": 148,
+        "Community_Impact_Score": 59,
+        "Annual_Revenue_k": 28070
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79737,
+          49.20393
+        ]
+      },
+      "properties": {
+        "ID": 78,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Art Gallery",
+        "Floor_Area_sqm": 245,
+        "Daily_Foot_Traffic": 1882,
+        "Community_Impact_Score": 74,
+        "Annual_Revenue_k": 557
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84859,
+          49.18571
+        ]
+      },
+      "properties": {
+        "ID": 79,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Electronics",
+        "Floor_Area_sqm": 83,
+        "Daily_Foot_Traffic": 2639,
+        "Community_Impact_Score": 100,
+        "Annual_Revenue_k": 207
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79108,
+          49.19989
+        ]
+      },
+      "properties": {
+        "ID": 80,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Theatre",
+        "Floor_Area_sqm": 285,
+        "Daily_Foot_Traffic": 725,
+        "Community_Impact_Score": 80,
+        "Annual_Revenue_k": 478
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70199,
+          49.24273
+        ]
+      },
+      "properties": {
+        "ID": 81,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Self-Storage",
+        "Floor_Area_sqm": 10851,
+        "Daily_Foot_Traffic": 382,
+        "Community_Impact_Score": 15,
+        "Annual_Revenue_k": 5624
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69807,
+          49.24485
+        ]
+      },
+      "properties": {
+        "ID": 82,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Distribution Center",
+        "Floor_Area_sqm": 20154,
+        "Daily_Foot_Traffic": 343,
+        "Community_Impact_Score": 16,
+        "Annual_Revenue_k": 9048
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.78155,
+          49.20106
+        ]
+      },
+      "properties": {
+        "ID": 83,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Bar",
+        "Floor_Area_sqm": 140,
+        "Daily_Foot_Traffic": 944,
+        "Community_Impact_Score": 78,
+        "Annual_Revenue_k": 277
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.71973,
+          49.24738
+        ]
+      },
+      "properties": {
+        "ID": 84,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Self-Storage",
+        "Floor_Area_sqm": 9005,
+        "Daily_Foot_Traffic": 391,
+        "Community_Impact_Score": 17,
+        "Annual_Revenue_k": 6326
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.78472,
+          49.20955
+        ]
+      },
+      "properties": {
+        "ID": 85,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Cafe",
+        "Floor_Area_sqm": 313,
+        "Daily_Foot_Traffic": 1050,
+        "Community_Impact_Score": 86,
+        "Annual_Revenue_k": 494
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90298,
+          49.15852
+        ]
+      },
+      "properties": {
+        "ID": 86,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Fintech Office",
+        "Floor_Area_sqm": 1462,
+        "Daily_Foot_Traffic": 352,
+        "Community_Impact_Score": 44,
+        "Annual_Revenue_k": 9542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.795,
+          49.20013
+        ]
+      },
+      "properties": {
+        "ID": 87,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Bar",
+        "Floor_Area_sqm": 286,
+        "Daily_Foot_Traffic": 1444,
+        "Community_Impact_Score": 78,
+        "Annual_Revenue_k": 402
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69678,
+          49.24604
+        ]
+      },
+      "properties": {
+        "ID": 88,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Self-Storage",
+        "Floor_Area_sqm": 20174,
+        "Daily_Foot_Traffic": 348,
+        "Community_Impact_Score": 25,
+        "Annual_Revenue_k": 13404
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79534,
+          49.20347
+        ]
+      },
+      "properties": {
+        "ID": 89,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Theatre",
+        "Floor_Area_sqm": 248,
+        "Daily_Foot_Traffic": 1309,
+        "Community_Impact_Score": 86,
+        "Annual_Revenue_k": 323
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7246,
+          49.23707
+        ]
+      },
+      "properties": {
+        "ID": 90,
+        "Neighborhood": "Unzoned",
+        "Category": "Office",
+        "Subcategory": "Consulting Firm",
+        "Floor_Area_sqm": 16036,
+        "Daily_Foot_Traffic": 1777,
+        "Community_Impact_Score": 30,
+        "Annual_Revenue_k": 33994
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.83735,
+          49.18344
+        ]
+      },
+      "properties": {
+        "ID": 91,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Electronics",
+        "Floor_Area_sqm": 307,
+        "Daily_Foot_Traffic": 1386,
+        "Community_Impact_Score": 73,
+        "Annual_Revenue_k": 719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.83851,
+          49.18386
+        ]
+      },
+      "properties": {
+        "ID": 92,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Cafe",
+        "Floor_Area_sqm": 147,
+        "Daily_Foot_Traffic": 2006,
+        "Community_Impact_Score": 67,
+        "Annual_Revenue_k": 173
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.86488,
+          49.23035
+        ]
+      },
+      "properties": {
+        "ID": 93,
+        "Neighborhood": "Unzoned",
+        "Category": "Hospitality",
+        "Subcategory": "Art Gallery",
+        "Floor_Area_sqm": 2616,
+        "Daily_Foot_Traffic": 486,
+        "Community_Impact_Score": 90,
+        "Annual_Revenue_k": 2194
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68983,
+          49.23488
+        ]
+      },
+      "properties": {
+        "ID": 94,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Cold Storage",
+        "Floor_Area_sqm": 17666,
+        "Daily_Foot_Traffic": 374,
+        "Community_Impact_Score": 19,
+        "Annual_Revenue_k": 7156
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9109,
+          49.15191
+        ]
+      },
+      "properties": {
+        "ID": 95,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Software Firm",
+        "Floor_Area_sqm": 690,
+        "Daily_Foot_Traffic": 470,
+        "Community_Impact_Score": 42,
+        "Annual_Revenue_k": 2135
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84132,
+          49.18799
+        ]
+      },
+      "properties": {
+        "ID": 96,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Grocery",
+        "Floor_Area_sqm": 324,
+        "Daily_Foot_Traffic": 2276,
+        "Community_Impact_Score": 78,
+        "Annual_Revenue_k": 597
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.78065,
+          49.21042
+        ]
+      },
+      "properties": {
+        "ID": 97,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Bar",
+        "Floor_Area_sqm": 390,
+        "Daily_Foot_Traffic": 1478,
+        "Community_Impact_Score": 77,
+        "Annual_Revenue_k": 814
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84084,
+          49.17794
+        ]
+      },
+      "properties": {
+        "ID": 98,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Bookstore",
+        "Floor_Area_sqm": 349,
+        "Daily_Foot_Traffic": 2073,
+        "Community_Impact_Score": 77,
+        "Annual_Revenue_k": 761
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.83448,
+          49.1836
+        ]
+      },
+      "properties": {
+        "ID": 99,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Bookstore",
+        "Floor_Area_sqm": 328,
+        "Daily_Foot_Traffic": 1931,
+        "Community_Impact_Score": 82,
+        "Annual_Revenue_k": 666
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7831,
+          49.18903
+        ]
+      },
+      "properties": {
+        "ID": 100,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Bar",
+        "Floor_Area_sqm": 281,
+        "Daily_Foot_Traffic": 1032,
+        "Community_Impact_Score": 87,
+        "Annual_Revenue_k": 584
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79075,
+          49.21021
+        ]
+      },
+      "properties": {
+        "ID": 101,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Cafe",
+        "Floor_Area_sqm": 452,
+        "Daily_Foot_Traffic": 1611,
+        "Community_Impact_Score": 78,
+        "Annual_Revenue_k": 1522
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79277,
+          49.20291
+        ]
+      },
+      "properties": {
+        "ID": 102,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Theatre",
+        "Floor_Area_sqm": 382,
+        "Daily_Foot_Traffic": 913,
+        "Community_Impact_Score": 72,
+        "Annual_Revenue_k": 393
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8426,
+          49.18046
+        ]
+      },
+      "properties": {
+        "ID": 103,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Bookstore",
+        "Floor_Area_sqm": 167,
+        "Daily_Foot_Traffic": 2367,
+        "Community_Impact_Score": 81,
+        "Annual_Revenue_k": 472
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91227,
+          49.15235
+        ]
+      },
+      "properties": {
+        "ID": 104,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Software Firm",
+        "Floor_Area_sqm": 1229,
+        "Daily_Foot_Traffic": 447,
+        "Community_Impact_Score": 52,
+        "Annual_Revenue_k": 6399
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79898,
+          49.19512
+        ]
+      },
+      "properties": {
+        "ID": 105,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Restaurant",
+        "Floor_Area_sqm": 378,
+        "Daily_Foot_Traffic": 1571,
+        "Community_Impact_Score": 79,
+        "Annual_Revenue_k": 683
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6928,
+          49.24331
+        ]
+      },
+      "properties": {
+        "ID": 106,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Distribution Center",
+        "Floor_Area_sqm": 20441,
+        "Daily_Foot_Traffic": 423,
+        "Community_Impact_Score": 19,
+        "Annual_Revenue_k": 16251
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79465,
+          49.19871
+        ]
+      },
+      "properties": {
+        "ID": 107,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Art Gallery",
+        "Floor_Area_sqm": 157,
+        "Daily_Foot_Traffic": 1951,
+        "Community_Impact_Score": 87,
+        "Annual_Revenue_k": 262
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84196,
+          49.1872
+        ]
+      },
+      "properties": {
+        "ID": 108,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Cafe",
+        "Floor_Area_sqm": 95,
+        "Daily_Foot_Traffic": 2022,
+        "Community_Impact_Score": 74,
+        "Annual_Revenue_k": 126
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70325,
+          49.23943
+        ]
+      },
+      "properties": {
+        "ID": 109,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Distribution Center",
+        "Floor_Area_sqm": 7551,
+        "Daily_Foot_Traffic": 355,
+        "Community_Impact_Score": 25,
+        "Annual_Revenue_k": 2239
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.71319,
+          49.23672
+        ]
+      },
+      "properties": {
+        "ID": 110,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Self-Storage",
+        "Floor_Area_sqm": 22331,
+        "Daily_Foot_Traffic": 383,
+        "Community_Impact_Score": 24,
+        "Annual_Revenue_k": 12166
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91194,
+          49.15831
+        ]
+      },
+      "properties": {
+        "ID": 111,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Software Firm",
+        "Floor_Area_sqm": 564,
+        "Daily_Foot_Traffic": 585,
+        "Community_Impact_Score": 38,
+        "Annual_Revenue_k": 2193
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90812,
+          49.16672
+        ]
+      },
+      "properties": {
+        "ID": 112,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Fintech Office",
+        "Floor_Area_sqm": 891,
+        "Daily_Foot_Traffic": 801,
+        "Community_Impact_Score": 43,
+        "Annual_Revenue_k": 4318
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69181,
+          49.25119
+        ]
+      },
+      "properties": {
+        "ID": 113,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Self-Storage",
+        "Floor_Area_sqm": 24206,
+        "Daily_Foot_Traffic": 349,
+        "Community_Impact_Score": 20,
+        "Annual_Revenue_k": 14935
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.71012,
+          49.24442
+        ]
+      },
+      "properties": {
+        "ID": 114,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Manufacturing Plant",
+        "Floor_Area_sqm": 16641,
+        "Daily_Foot_Traffic": 431,
+        "Community_Impact_Score": 23,
+        "Annual_Revenue_k": 9338
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.89369,
+          49.15006
+        ]
+      },
+      "properties": {
+        "ID": 115,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Consulting Firm",
+        "Floor_Area_sqm": 628,
+        "Daily_Foot_Traffic": 526,
+        "Community_Impact_Score": 43,
+        "Annual_Revenue_k": 3057
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.71057,
+          49.24743
+        ]
+      },
+      "properties": {
+        "ID": 116,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Distribution Center",
+        "Floor_Area_sqm": 13299,
+        "Daily_Foot_Traffic": 429,
+        "Community_Impact_Score": 25,
+        "Annual_Revenue_k": 6734
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.78631,
+          49.19903
+        ]
+      },
+      "properties": {
+        "ID": 117,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Restaurant",
+        "Floor_Area_sqm": 358,
+        "Daily_Foot_Traffic": 1744,
+        "Community_Impact_Score": 64,
+        "Annual_Revenue_k": 939
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84454,
+          49.18909
+        ]
+      },
+      "properties": {
+        "ID": 118,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Electronics",
+        "Floor_Area_sqm": 185,
+        "Daily_Foot_Traffic": 2050,
+        "Community_Impact_Score": 100,
+        "Annual_Revenue_k": 462
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.82965,
+          49.18247
+        ]
+      },
+      "properties": {
+        "ID": 119,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Bookstore",
+        "Floor_Area_sqm": 154,
+        "Daily_Foot_Traffic": 1586,
+        "Community_Impact_Score": 85,
+        "Annual_Revenue_k": 393
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90552,
+          49.16303
+        ]
+      },
+      "properties": {
+        "ID": 120,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Consulting Firm",
+        "Floor_Area_sqm": 1556,
+        "Daily_Foot_Traffic": 651,
+        "Community_Impact_Score": 57,
+        "Annual_Revenue_k": 8353
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79627,
+          49.19558
+        ]
+      },
+      "properties": {
+        "ID": 121,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Cafe",
+        "Floor_Area_sqm": 223,
+        "Daily_Foot_Traffic": 1049,
+        "Community_Impact_Score": 74,
+        "Annual_Revenue_k": 432
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84696,
+          49.1806
+        ]
+      },
+      "properties": {
+        "ID": 122,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Bookstore",
+        "Floor_Area_sqm": 286,
+        "Daily_Foot_Traffic": 2388,
+        "Community_Impact_Score": 81,
+        "Annual_Revenue_k": 913
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70013,
+          49.23098
+        ]
+      },
+      "properties": {
+        "ID": 123,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Manufacturing Plant",
+        "Floor_Area_sqm": 15697,
+        "Daily_Foot_Traffic": 405,
+        "Community_Impact_Score": 21,
+        "Annual_Revenue_k": 4288
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79078,
+          49.20038
+        ]
+      },
+      "properties": {
+        "ID": 124,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Cafe",
+        "Floor_Area_sqm": 391,
+        "Daily_Foot_Traffic": 352,
+        "Community_Impact_Score": 78,
+        "Annual_Revenue_k": 854
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.87435,
+          49.18157
+        ]
+      },
+      "properties": {
+        "ID": 125,
+        "Neighborhood": "Unzoned",
+        "Category": "Industrial",
+        "Subcategory": "Cold Storage",
+        "Floor_Area_sqm": 557,
+        "Daily_Foot_Traffic": 574,
+        "Community_Impact_Score": 38,
+        "Annual_Revenue_k": 358
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.78652,
+          49.20332
+        ]
+      },
+      "properties": {
+        "ID": 126,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Art Gallery",
+        "Floor_Area_sqm": 170,
+        "Daily_Foot_Traffic": 1876,
+        "Community_Impact_Score": 81,
+        "Annual_Revenue_k": 294
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.71048,
+          49.23348
+        ]
+      },
+      "properties": {
+        "ID": 127,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Cold Storage",
+        "Floor_Area_sqm": 17487,
+        "Daily_Foot_Traffic": 371,
+        "Community_Impact_Score": 21,
+        "Annual_Revenue_k": 10491
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.83772,
+          49.21374
+        ]
+      },
+      "properties": {
+        "ID": 128,
+        "Neighborhood": "Unzoned",
+        "Category": "Office",
+        "Subcategory": "Biotech Lab",
+        "Floor_Area_sqm": 9539,
+        "Daily_Foot_Traffic": 413,
+        "Community_Impact_Score": 35,
+        "Annual_Revenue_k": 7714
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90886,
+          49.16445
+        ]
+      },
+      "properties": {
+        "ID": 129,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Fintech Office",
+        "Floor_Area_sqm": 1017,
+        "Daily_Foot_Traffic": 647,
+        "Community_Impact_Score": 44,
+        "Annual_Revenue_k": 3723
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90797,
+          49.15529
+        ]
+      },
+      "properties": {
+        "ID": 130,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Software Firm",
+        "Floor_Area_sqm": 1191,
+        "Daily_Foot_Traffic": 607,
+        "Community_Impact_Score": 27,
+        "Annual_Revenue_k": 6485
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.77432,
+          49.20321
+        ]
+      },
+      "properties": {
+        "ID": 131,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Restaurant",
+        "Floor_Area_sqm": 412,
+        "Daily_Foot_Traffic": 1446,
+        "Community_Impact_Score": 81,
+        "Annual_Revenue_k": 952
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.71196,
+          49.24606
+        ]
+      },
+      "properties": {
+        "ID": 132,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Manufacturing Plant",
+        "Floor_Area_sqm": 7710,
+        "Daily_Foot_Traffic": 362,
+        "Community_Impact_Score": 14,
+        "Annual_Revenue_k": 6185
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.81678,
+          49.14735
+        ]
+      },
+      "properties": {
+        "ID": 133,
+        "Neighborhood": "Unzoned",
+        "Category": "Industrial",
+        "Subcategory": "Self-Storage",
+        "Floor_Area_sqm": 311,
+        "Daily_Foot_Traffic": 2062,
+        "Community_Impact_Score": 60,
+        "Annual_Revenue_k": 768
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.83367,
+          49.17275
+        ]
+      },
+      "properties": {
+        "ID": 134,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Electronics",
+        "Floor_Area_sqm": 171,
+        "Daily_Foot_Traffic": 2131,
+        "Community_Impact_Score": 83,
+        "Annual_Revenue_k": 335
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79504,
+          49.20769
+        ]
+      },
+      "properties": {
+        "ID": 135,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Theatre",
+        "Floor_Area_sqm": 313,
+        "Daily_Foot_Traffic": 1185,
+        "Community_Impact_Score": 79,
+        "Annual_Revenue_k": 560
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84643,
+          49.18623
+        ]
+      },
+      "properties": {
+        "ID": 136,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Grocery",
+        "Floor_Area_sqm": 244,
+        "Daily_Foot_Traffic": 2198,
+        "Community_Impact_Score": 83,
+        "Annual_Revenue_k": 686
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70324,
+          49.24053
+        ]
+      },
+      "properties": {
+        "ID": 137,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Self-Storage",
+        "Floor_Area_sqm": 21516,
+        "Daily_Foot_Traffic": 373,
+        "Community_Impact_Score": 13,
+        "Annual_Revenue_k": 15664
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84119,
+          49.18822
+        ]
+      },
+      "properties": {
+        "ID": 138,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Electronics",
+        "Floor_Area_sqm": 100,
+        "Daily_Foot_Traffic": 2333,
+        "Community_Impact_Score": 81,
+        "Annual_Revenue_k": 249
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68785,
+          49.24366
+        ]
+      },
+      "properties": {
+        "ID": 139,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Self-Storage",
+        "Floor_Area_sqm": 21372,
+        "Daily_Foot_Traffic": 376,
+        "Community_Impact_Score": 18,
+        "Annual_Revenue_k": 13236
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70461,
+          49.24627
+        ]
+      },
+      "properties": {
+        "ID": 140,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Distribution Center",
+        "Floor_Area_sqm": 10018,
+        "Daily_Foot_Traffic": 388,
+        "Community_Impact_Score": 15,
+        "Annual_Revenue_k": 6750
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90491,
+          49.16245
+        ]
+      },
+      "properties": {
+        "ID": 141,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Software Firm",
+        "Floor_Area_sqm": 705,
+        "Daily_Foot_Traffic": 615,
+        "Community_Impact_Score": 39,
+        "Annual_Revenue_k": 2529
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84196,
+          49.18533
+        ]
+      },
+      "properties": {
+        "ID": 142,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Bookstore",
+        "Floor_Area_sqm": 340,
+        "Daily_Foot_Traffic": 2621,
+        "Community_Impact_Score": 74,
+        "Annual_Revenue_k": 682
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68824,
+          49.23108
+        ]
+      },
+      "properties": {
+        "ID": 143,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Self-Storage",
+        "Floor_Area_sqm": 13265,
+        "Daily_Foot_Traffic": 390,
+        "Community_Impact_Score": 17,
+        "Annual_Revenue_k": 4788
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.83753,
+          49.18297
+        ]
+      },
+      "properties": {
+        "ID": 144,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Electronics",
+        "Floor_Area_sqm": 243,
+        "Daily_Foot_Traffic": 1657,
+        "Community_Impact_Score": 88,
+        "Annual_Revenue_k": 384
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90553,
+          49.15372
+        ]
+      },
+      "properties": {
+        "ID": 145,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Fintech Office",
+        "Floor_Area_sqm": 1149,
+        "Daily_Foot_Traffic": 486,
+        "Community_Impact_Score": 61,
+        "Annual_Revenue_k": 6685
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.78095,
+          49.20378
+        ]
+      },
+      "properties": {
+        "ID": 146,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Cafe",
+        "Floor_Area_sqm": 184,
+        "Daily_Foot_Traffic": 597,
+        "Community_Impact_Score": 72,
+        "Annual_Revenue_k": 260
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84953,
+          49.18197
+        ]
+      },
+      "properties": {
+        "ID": 147,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Bookstore",
+        "Floor_Area_sqm": 232,
+        "Daily_Foot_Traffic": 2319,
+        "Community_Impact_Score": 75,
+        "Annual_Revenue_k": 341
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84745,
+          49.18723
+        ]
+      },
+      "properties": {
+        "ID": 148,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Electronics",
+        "Floor_Area_sqm": 186,
+        "Daily_Foot_Traffic": 2284,
+        "Community_Impact_Score": 75,
+        "Annual_Revenue_k": 420
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.83464,
+          49.17709
+        ]
+      },
+      "properties": {
+        "ID": 149,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Clothing",
+        "Floor_Area_sqm": 145,
+        "Daily_Foot_Traffic": 1096,
+        "Community_Impact_Score": 74,
+        "Annual_Revenue_k": 402
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68578,
+          49.24643
+        ]
+      },
+      "properties": {
+        "ID": 150,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Distribution Center",
+        "Floor_Area_sqm": 20717,
+        "Daily_Foot_Traffic": 384,
+        "Community_Impact_Score": 15,
+        "Annual_Revenue_k": 11457
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67999,
+          49.24338
+        ]
+      },
+      "properties": {
+        "ID": 151,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Distribution Center",
+        "Floor_Area_sqm": 9987,
+        "Daily_Foot_Traffic": 345,
+        "Community_Impact_Score": 14,
+        "Annual_Revenue_k": 6413
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91043,
+          49.16255
+        ]
+      },
+      "properties": {
+        "ID": 152,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Software Firm",
+        "Floor_Area_sqm": 1558,
+        "Daily_Foot_Traffic": 588,
+        "Community_Impact_Score": 41,
+        "Annual_Revenue_k": 5384
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84768,
+          49.18364
+        ]
+      },
+      "properties": {
+        "ID": 153,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Clothing",
+        "Floor_Area_sqm": 105,
+        "Daily_Foot_Traffic": 2221,
+        "Community_Impact_Score": 88,
+        "Annual_Revenue_k": 158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.898,
+          49.16094
+        ]
+      },
+      "properties": {
+        "ID": 154,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Software Firm",
+        "Floor_Area_sqm": 621,
+        "Daily_Foot_Traffic": 538,
+        "Community_Impact_Score": 42,
+        "Annual_Revenue_k": 3186
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90554,
+          49.16388
+        ]
+      },
+      "properties": {
+        "ID": 155,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Consulting Firm",
+        "Floor_Area_sqm": 622,
+        "Daily_Foot_Traffic": 921,
+        "Community_Impact_Score": 33,
+        "Annual_Revenue_k": 2149
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90928,
+          49.17077
+        ]
+      },
+      "properties": {
+        "ID": 156,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Fintech Office",
+        "Floor_Area_sqm": 697,
+        "Daily_Foot_Traffic": 734,
+        "Community_Impact_Score": 39,
+        "Annual_Revenue_k": 3615
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90058,
+          49.16328
+        ]
+      },
+      "properties": {
+        "ID": 157,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Biotech Lab",
+        "Floor_Area_sqm": 454,
+        "Daily_Foot_Traffic": 799,
+        "Community_Impact_Score": 35,
+        "Annual_Revenue_k": 2937
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.83902,
+          49.18404
+        ]
+      },
+      "properties": {
+        "ID": 158,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Grocery",
+        "Floor_Area_sqm": 210,
+        "Daily_Foot_Traffic": 1607,
+        "Community_Impact_Score": 84,
+        "Annual_Revenue_k": 354
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90403,
+          49.1652
+        ]
+      },
+      "properties": {
+        "ID": 159,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Fintech Office",
+        "Floor_Area_sqm": 1764,
+        "Daily_Foot_Traffic": 628,
+        "Community_Impact_Score": 39,
+        "Annual_Revenue_k": 9126
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84874,
+          49.18644
+        ]
+      },
+      "properties": {
+        "ID": 160,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Cafe",
+        "Floor_Area_sqm": 316,
+        "Daily_Foot_Traffic": 961,
+        "Community_Impact_Score": 88,
+        "Annual_Revenue_k": 525
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.78694,
+          49.20375
+        ]
+      },
+      "properties": {
+        "ID": 161,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Theatre",
+        "Floor_Area_sqm": 381,
+        "Daily_Foot_Traffic": 1907,
+        "Community_Impact_Score": 92,
+        "Annual_Revenue_k": 661
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.89808,
+          49.15799
+        ]
+      },
+      "properties": {
+        "ID": 162,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Consulting Firm",
+        "Floor_Area_sqm": 1703,
+        "Daily_Foot_Traffic": 700,
+        "Community_Impact_Score": 35,
+        "Annual_Revenue_k": 9968
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84111,
+          49.1818
+        ]
+      },
+      "properties": {
+        "ID": 163,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Clothing",
+        "Floor_Area_sqm": 231,
+        "Daily_Foot_Traffic": 2439,
+        "Community_Impact_Score": 82,
+        "Annual_Revenue_k": 557
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.78605,
+          49.20448
+        ]
+      },
+      "properties": {
+        "ID": 164,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Theatre",
+        "Floor_Area_sqm": 434,
+        "Daily_Foot_Traffic": 1836,
+        "Community_Impact_Score": 77,
+        "Annual_Revenue_k": 1181
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84343,
+          49.18237
+        ]
+      },
+      "properties": {
+        "ID": 165,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Grocery",
+        "Floor_Area_sqm": 116,
+        "Daily_Foot_Traffic": 2280,
+        "Community_Impact_Score": 83,
+        "Annual_Revenue_k": 299
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90386,
+          49.1578
+        ]
+      },
+      "properties": {
+        "ID": 166,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Fintech Office",
+        "Floor_Area_sqm": 1320,
+        "Daily_Foot_Traffic": 652,
+        "Community_Impact_Score": 41,
+        "Annual_Revenue_k": 8921
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.81096,
+          49.1662
+        ]
+      },
+      "properties": {
+        "ID": 167,
+        "Neighborhood": "Unzoned",
+        "Category": "Retail",
+        "Subcategory": "Cafe",
+        "Floor_Area_sqm": 2836,
+        "Daily_Foot_Traffic": 425,
+        "Community_Impact_Score": 32,
+        "Annual_Revenue_k": 5918
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79595,
+          49.20609
+        ]
+      },
+      "properties": {
+        "ID": 168,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Art Gallery",
+        "Floor_Area_sqm": 472,
+        "Daily_Foot_Traffic": 1266,
+        "Community_Impact_Score": 82,
+        "Annual_Revenue_k": 784
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90274,
+          49.15728
+        ]
+      },
+      "properties": {
+        "ID": 169,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Software Firm",
+        "Floor_Area_sqm": 1046,
+        "Daily_Foot_Traffic": 556,
+        "Community_Impact_Score": 28,
+        "Annual_Revenue_k": 3683
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90805,
+          49.16232
+        ]
+      },
+      "properties": {
+        "ID": 170,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Biotech Lab",
+        "Floor_Area_sqm": 755,
+        "Daily_Foot_Traffic": 898,
+        "Community_Impact_Score": 41,
+        "Annual_Revenue_k": 3893
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91846,
+          49.1722
+        ]
+      },
+      "properties": {
+        "ID": 171,
+        "Neighborhood": "Unzoned",
+        "Category": "Retail",
+        "Subcategory": "Bookstore",
+        "Floor_Area_sqm": 187,
+        "Daily_Foot_Traffic": 415,
+        "Community_Impact_Score": 67,
+        "Annual_Revenue_k": 160
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.85349,
+          49.18279
+        ]
+      },
+      "properties": {
+        "ID": 172,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Cafe",
+        "Floor_Area_sqm": 299,
+        "Daily_Foot_Traffic": 1160,
+        "Community_Impact_Score": 91,
+        "Annual_Revenue_k": 843
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84397,
+          49.1878
+        ]
+      },
+      "properties": {
+        "ID": 173,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Bookstore",
+        "Floor_Area_sqm": 108,
+        "Daily_Foot_Traffic": 1846,
+        "Community_Impact_Score": 79,
+        "Annual_Revenue_k": 127
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70256,
+          49.25159
+        ]
+      },
+      "properties": {
+        "ID": 174,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Self-Storage",
+        "Floor_Area_sqm": 19466,
+        "Daily_Foot_Traffic": 380,
+        "Community_Impact_Score": 16,
+        "Annual_Revenue_k": 6673
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90863,
+          49.25045
+        ]
+      },
+      "properties": {
+        "ID": 175,
+        "Neighborhood": "Unzoned",
+        "Category": "Office",
+        "Subcategory": "Consulting Firm",
+        "Floor_Area_sqm": 889,
+        "Daily_Foot_Traffic": 1554,
+        "Community_Impact_Score": 20,
+        "Annual_Revenue_k": 506
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95784,
+          49.13543
+        ]
+      },
+      "properties": {
+        "ID": 176,
+        "Neighborhood": "Unzoned",
+        "Category": "Retail",
+        "Subcategory": "Electronics",
+        "Floor_Area_sqm": 2104,
+        "Daily_Foot_Traffic": 2090,
+        "Community_Impact_Score": 74,
+        "Annual_Revenue_k": 4365
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.78786,
+          49.20712
+        ]
+      },
+      "properties": {
+        "ID": 177,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Restaurant",
+        "Floor_Area_sqm": 480,
+        "Daily_Foot_Traffic": 1708,
+        "Community_Impact_Score": 80,
+        "Annual_Revenue_k": 499
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84792,
+          49.18849
+        ]
+      },
+      "properties": {
+        "ID": 178,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Electronics",
+        "Floor_Area_sqm": 144,
+        "Daily_Foot_Traffic": 1966,
+        "Community_Impact_Score": 80,
+        "Annual_Revenue_k": 234
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69577,
+          49.24205
+        ]
+      },
+      "properties": {
+        "ID": 179,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Manufacturing Plant",
+        "Floor_Area_sqm": 23848,
+        "Daily_Foot_Traffic": 376,
+        "Community_Impact_Score": 7,
+        "Annual_Revenue_k": 8776
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69305,
+          49.23825
+        ]
+      },
+      "properties": {
+        "ID": 180,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Manufacturing Plant",
+        "Floor_Area_sqm": 12299,
+        "Daily_Foot_Traffic": 348,
+        "Community_Impact_Score": 2,
+        "Annual_Revenue_k": 7726
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90174,
+          49.15543
+        ]
+      },
+      "properties": {
+        "ID": 181,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Software Firm",
+        "Floor_Area_sqm": 441,
+        "Daily_Foot_Traffic": 794,
+        "Community_Impact_Score": 50,
+        "Annual_Revenue_k": 1579
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.85138,
+          49.1803
+        ]
+      },
+      "properties": {
+        "ID": 182,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Clothing",
+        "Floor_Area_sqm": 138,
+        "Daily_Foot_Traffic": 2375,
+        "Community_Impact_Score": 94,
+        "Annual_Revenue_k": 163
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8028,
+          49.20382
+        ]
+      },
+      "properties": {
+        "ID": 183,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Art Gallery",
+        "Floor_Area_sqm": 125,
+        "Daily_Foot_Traffic": 1668,
+        "Community_Impact_Score": 62,
+        "Annual_Revenue_k": 266
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90947,
+          49.16421
+        ]
+      },
+      "properties": {
+        "ID": 184,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Fintech Office",
+        "Floor_Area_sqm": 642,
+        "Daily_Foot_Traffic": 697,
+        "Community_Impact_Score": 48,
+        "Annual_Revenue_k": 2619
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84653,
+          49.1857
+        ]
+      },
+      "properties": {
+        "ID": 185,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Electronics",
+        "Floor_Area_sqm": 223,
+        "Daily_Foot_Traffic": 2308,
+        "Community_Impact_Score": 62,
+        "Annual_Revenue_k": 573
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90921,
+          49.15314
+        ]
+      },
+      "properties": {
+        "ID": 186,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Fintech Office",
+        "Floor_Area_sqm": 1079,
+        "Daily_Foot_Traffic": 587,
+        "Community_Impact_Score": 39,
+        "Annual_Revenue_k": 1664
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.705,
+          49.23875
+        ]
+      },
+      "properties": {
+        "ID": 187,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Cold Storage",
+        "Floor_Area_sqm": 5555,
+        "Daily_Foot_Traffic": 362,
+        "Community_Impact_Score": 17,
+        "Annual_Revenue_k": 1871
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79148,
+          49.20238
+        ]
+      },
+      "properties": {
+        "ID": 188,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Theatre",
+        "Floor_Area_sqm": 375,
+        "Daily_Foot_Traffic": 1643,
+        "Community_Impact_Score": 62,
+        "Annual_Revenue_k": 882
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84345,
+          49.17964
+        ]
+      },
+      "properties": {
+        "ID": 189,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Cafe",
+        "Floor_Area_sqm": 91,
+        "Daily_Foot_Traffic": 1783,
+        "Community_Impact_Score": 80,
+        "Annual_Revenue_k": 320
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79172,
+          49.20085
+        ]
+      },
+      "properties": {
+        "ID": 190,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Theatre",
+        "Floor_Area_sqm": 458,
+        "Daily_Foot_Traffic": 2023,
+        "Community_Impact_Score": 65,
+        "Annual_Revenue_k": 444
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69602,
+          49.24125
+        ]
+      },
+      "properties": {
+        "ID": 191,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Manufacturing Plant",
+        "Floor_Area_sqm": 19732,
+        "Daily_Foot_Traffic": 366,
+        "Community_Impact_Score": 14,
+        "Annual_Revenue_k": 9868
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.85136,
+          49.1891
+        ]
+      },
+      "properties": {
+        "ID": 192,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Grocery",
+        "Floor_Area_sqm": 248,
+        "Daily_Foot_Traffic": 2467,
+        "Community_Impact_Score": 84,
+        "Annual_Revenue_k": 510
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69237,
+          49.23446
+        ]
+      },
+      "properties": {
+        "ID": 193,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Self-Storage",
+        "Floor_Area_sqm": 24538,
+        "Daily_Foot_Traffic": 408,
+        "Community_Impact_Score": 18,
+        "Annual_Revenue_k": 17989
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.78585,
+          49.20297
+        ]
+      },
+      "properties": {
+        "ID": 194,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Restaurant",
+        "Floor_Area_sqm": 96,
+        "Daily_Foot_Traffic": 795,
+        "Community_Impact_Score": 77,
+        "Annual_Revenue_k": 155
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90469,
+          49.17085
+        ]
+      },
+      "properties": {
+        "ID": 195,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Biotech Lab",
+        "Floor_Area_sqm": 1246,
+        "Daily_Foot_Traffic": 889,
+        "Community_Impact_Score": 45,
+        "Annual_Revenue_k": 8309
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.83392,
+          49.15188
+        ]
+      },
+      "properties": {
+        "ID": 196,
+        "Neighborhood": "Unzoned",
+        "Category": "Office",
+        "Subcategory": "Fintech Office",
+        "Floor_Area_sqm": 399,
+        "Daily_Foot_Traffic": 1071,
+        "Community_Impact_Score": 92,
+        "Annual_Revenue_k": 136
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67271,
+          49.23995
+        ]
+      },
+      "properties": {
+        "ID": 197,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Cold Storage",
+        "Floor_Area_sqm": 19968,
+        "Daily_Foot_Traffic": 356,
+        "Community_Impact_Score": 30,
+        "Annual_Revenue_k": 16176
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.89508,
+          49.15928
+        ]
+      },
+      "properties": {
+        "ID": 198,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Biotech Lab",
+        "Floor_Area_sqm": 1036,
+        "Daily_Foot_Traffic": 566,
+        "Community_Impact_Score": 43,
+        "Annual_Revenue_k": 4449
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8526,
+          49.18279
+        ]
+      },
+      "properties": {
+        "ID": 199,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Cafe",
+        "Floor_Area_sqm": 244,
+        "Daily_Foot_Traffic": 2300,
+        "Community_Impact_Score": 86,
+        "Annual_Revenue_k": 561
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.89284,
+          49.16261
+        ]
+      },
+      "properties": {
+        "ID": 200,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Consulting Firm",
+        "Floor_Area_sqm": 1277,
+        "Daily_Foot_Traffic": 1065,
+        "Community_Impact_Score": 41,
+        "Annual_Revenue_k": 4905
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79112,
+          49.19626
+        ]
+      },
+      "properties": {
+        "ID": 201,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Cafe",
+        "Floor_Area_sqm": 199,
+        "Daily_Foot_Traffic": 1494,
+        "Community_Impact_Score": 60,
+        "Annual_Revenue_k": 199
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.78081,
+          49.20169
+        ]
+      },
+      "properties": {
+        "ID": 202,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Bar",
+        "Floor_Area_sqm": 262,
+        "Daily_Foot_Traffic": 2268,
+        "Community_Impact_Score": 71,
+        "Annual_Revenue_k": 361
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70325,
+          49.23613
+        ]
+      },
+      "properties": {
+        "ID": 203,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Manufacturing Plant",
+        "Floor_Area_sqm": 11748,
+        "Daily_Foot_Traffic": 410,
+        "Community_Impact_Score": 6,
+        "Annual_Revenue_k": 6513
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79505,
+          49.20233
+        ]
+      },
+      "properties": {
+        "ID": 204,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Restaurant",
+        "Floor_Area_sqm": 251,
+        "Daily_Foot_Traffic": 1189,
+        "Community_Impact_Score": 77,
+        "Annual_Revenue_k": 396
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.78783,
+          49.19278
+        ]
+      },
+      "properties": {
+        "ID": 205,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Bar",
+        "Floor_Area_sqm": 202,
+        "Daily_Foot_Traffic": 1239,
+        "Community_Impact_Score": 84,
+        "Annual_Revenue_k": 88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90359,
+          49.15865
+        ]
+      },
+      "properties": {
+        "ID": 206,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Biotech Lab",
+        "Floor_Area_sqm": 1699,
+        "Daily_Foot_Traffic": 575,
+        "Community_Impact_Score": 31,
+        "Annual_Revenue_k": 10166
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69838,
+          49.24353
+        ]
+      },
+      "properties": {
+        "ID": 207,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Cold Storage",
+        "Floor_Area_sqm": 23819,
+        "Daily_Foot_Traffic": 404,
+        "Community_Impact_Score": 38,
+        "Annual_Revenue_k": 6547
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.65237,
+          49.17782
+        ]
+      },
+      "properties": {
+        "ID": 208,
+        "Neighborhood": "Unzoned",
+        "Category": "Hospitality",
+        "Subcategory": "Cafe",
+        "Floor_Area_sqm": 231,
+        "Daily_Foot_Traffic": 1356,
+        "Community_Impact_Score": 1,
+        "Annual_Revenue_k": 554
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.88895,
+          49.18798
+        ]
+      },
+      "properties": {
+        "ID": 209,
+        "Neighborhood": "Unzoned",
+        "Category": "Industrial",
+        "Subcategory": "Cold Storage",
+        "Floor_Area_sqm": 206,
+        "Daily_Foot_Traffic": 946,
+        "Community_Impact_Score": 87,
+        "Annual_Revenue_k": 243
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69243,
+          49.23516
+        ]
+      },
+      "properties": {
+        "ID": 210,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Distribution Center",
+        "Floor_Area_sqm": 4253,
+        "Daily_Foot_Traffic": 394,
+        "Community_Impact_Score": 15,
+        "Annual_Revenue_k": 2986
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91356,
+          49.15639
+        ]
+      },
+      "properties": {
+        "ID": 211,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Fintech Office",
+        "Floor_Area_sqm": 530,
+        "Daily_Foot_Traffic": 806,
+        "Community_Impact_Score": 64,
+        "Annual_Revenue_k": 2519
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.78453,
+          49.20118
+        ]
+      },
+      "properties": {
+        "ID": 212,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Theatre",
+        "Floor_Area_sqm": 143,
+        "Daily_Foot_Traffic": 1480,
+        "Community_Impact_Score": 76,
+        "Annual_Revenue_k": 271
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84917,
+          49.18966
+        ]
+      },
+      "properties": {
+        "ID": 213,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Clothing",
+        "Floor_Area_sqm": 75,
+        "Daily_Foot_Traffic": 2260,
+        "Community_Impact_Score": 67,
+        "Annual_Revenue_k": 231
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90631,
+          49.16509
+        ]
+      },
+      "properties": {
+        "ID": 214,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Software Firm",
+        "Floor_Area_sqm": 1534,
+        "Daily_Foot_Traffic": 626,
+        "Community_Impact_Score": 50,
+        "Annual_Revenue_k": 8183
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.85028,
+          49.17763
+        ]
+      },
+      "properties": {
+        "ID": 215,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Bookstore",
+        "Floor_Area_sqm": 306,
+        "Daily_Foot_Traffic": 1669,
+        "Community_Impact_Score": 86,
+        "Annual_Revenue_k": 671
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.83883,
+          49.1873
+        ]
+      },
+      "properties": {
+        "ID": 216,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Bookstore",
+        "Floor_Area_sqm": 304,
+        "Daily_Foot_Traffic": 2214,
+        "Community_Impact_Score": 78,
+        "Annual_Revenue_k": 677
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8949,
+          49.15912
+        ]
+      },
+      "properties": {
+        "ID": 217,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Consulting Firm",
+        "Floor_Area_sqm": 1013,
+        "Daily_Foot_Traffic": 554,
+        "Community_Impact_Score": 46,
+        "Annual_Revenue_k": 5146
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70936,
+          49.2432
+        ]
+      },
+      "properties": {
+        "ID": 218,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Self-Storage",
+        "Floor_Area_sqm": 15994,
+        "Daily_Foot_Traffic": 334,
+        "Community_Impact_Score": 20,
+        "Annual_Revenue_k": 11716
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84373,
+          49.18002
+        ]
+      },
+      "properties": {
+        "ID": 219,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Electronics",
+        "Floor_Area_sqm": 321,
+        "Daily_Foot_Traffic": 2387,
+        "Community_Impact_Score": 67,
+        "Annual_Revenue_k": 808
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79741,
+          49.19994
+        ]
+      },
+      "properties": {
+        "ID": 220,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Cafe",
+        "Floor_Area_sqm": 211,
+        "Daily_Foot_Traffic": 1402,
+        "Community_Impact_Score": 66,
+        "Annual_Revenue_k": 306
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79008,
+          49.20532
+        ]
+      },
+      "properties": {
+        "ID": 221,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Cafe",
+        "Floor_Area_sqm": 351,
+        "Daily_Foot_Traffic": 1134,
+        "Community_Impact_Score": 71,
+        "Annual_Revenue_k": 628
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.71384,
+          49.24807
+        ]
+      },
+      "properties": {
+        "ID": 222,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Distribution Center",
+        "Floor_Area_sqm": 23275,
+        "Daily_Foot_Traffic": 459,
+        "Community_Impact_Score": 11,
+        "Annual_Revenue_k": 12345
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70811,
+          49.16594
+        ]
+      },
+      "properties": {
+        "ID": 223,
+        "Neighborhood": "Unzoned",
+        "Category": "Office",
+        "Subcategory": "Fintech Office",
+        "Floor_Area_sqm": 17248,
+        "Daily_Foot_Traffic": 329,
+        "Community_Impact_Score": 52,
+        "Annual_Revenue_k": 13884
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79678,
+          49.2023
+        ]
+      },
+      "properties": {
+        "ID": 224,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Bar",
+        "Floor_Area_sqm": 352,
+        "Daily_Foot_Traffic": 1398,
+        "Community_Impact_Score": 73,
+        "Annual_Revenue_k": 608
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91608,
+          49.16408
+        ]
+      },
+      "properties": {
+        "ID": 225,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Consulting Firm",
+        "Floor_Area_sqm": 308,
+        "Daily_Foot_Traffic": 635,
+        "Community_Impact_Score": 33,
+        "Annual_Revenue_k": 1414
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.83407,
+          49.18027
+        ]
+      },
+      "properties": {
+        "ID": 226,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Clothing",
+        "Floor_Area_sqm": 285,
+        "Daily_Foot_Traffic": 1836,
+        "Community_Impact_Score": 80,
+        "Annual_Revenue_k": 511
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.78556,
+          49.20524
+        ]
+      },
+      "properties": {
+        "ID": 227,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Restaurant",
+        "Floor_Area_sqm": 126,
+        "Daily_Foot_Traffic": 471,
+        "Community_Impact_Score": 83,
+        "Annual_Revenue_k": 296
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79008,
+          49.19574
+        ]
+      },
+      "properties": {
+        "ID": 228,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Bar",
+        "Floor_Area_sqm": 348,
+        "Daily_Foot_Traffic": 1519,
+        "Community_Impact_Score": 63,
+        "Annual_Revenue_k": 475
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.81247,
+          49.23128
+        ]
+      },
+      "properties": {
+        "ID": 229,
+        "Neighborhood": "Unzoned",
+        "Category": "Industrial",
+        "Subcategory": "Cold Storage",
+        "Floor_Area_sqm": 15827,
+        "Daily_Foot_Traffic": 1856,
+        "Community_Impact_Score": 86,
+        "Annual_Revenue_k": 4940
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.85118,
+          49.18462
+        ]
+      },
+      "properties": {
+        "ID": 230,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Clothing",
+        "Floor_Area_sqm": 268,
+        "Daily_Foot_Traffic": 2156,
+        "Community_Impact_Score": 81,
+        "Annual_Revenue_k": 885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90041,
+          49.16284
+        ]
+      },
+      "properties": {
+        "ID": 231,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Biotech Lab",
+        "Floor_Area_sqm": 830,
+        "Daily_Foot_Traffic": 704,
+        "Community_Impact_Score": 32,
+        "Annual_Revenue_k": 3177
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9044,
+          49.16761
+        ]
+      },
+      "properties": {
+        "ID": 232,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Consulting Firm",
+        "Floor_Area_sqm": 1391,
+        "Daily_Foot_Traffic": 748,
+        "Community_Impact_Score": 52,
+        "Annual_Revenue_k": 8216
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90878,
+          49.16186
+        ]
+      },
+      "properties": {
+        "ID": 233,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Biotech Lab",
+        "Floor_Area_sqm": 1131,
+        "Daily_Foot_Traffic": 515,
+        "Community_Impact_Score": 48,
+        "Annual_Revenue_k": 4726
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84089,
+          49.18064
+        ]
+      },
+      "properties": {
+        "ID": 234,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Electronics",
+        "Floor_Area_sqm": 210,
+        "Daily_Foot_Traffic": 1709,
+        "Community_Impact_Score": 79,
+        "Annual_Revenue_k": 667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79156,
+          49.21044
+        ]
+      },
+      "properties": {
+        "ID": 235,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Restaurant",
+        "Floor_Area_sqm": 325,
+        "Daily_Foot_Traffic": 1545,
+        "Community_Impact_Score": 77,
+        "Annual_Revenue_k": 565
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79466,
+          49.18754
+        ]
+      },
+      "properties": {
+        "ID": 236,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Restaurant",
+        "Floor_Area_sqm": 328,
+        "Daily_Foot_Traffic": 1688,
+        "Community_Impact_Score": 68,
+        "Annual_Revenue_k": 323
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84067,
+          49.17962
+        ]
+      },
+      "properties": {
+        "ID": 237,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Bookstore",
+        "Floor_Area_sqm": 308,
+        "Daily_Foot_Traffic": 2418,
+        "Community_Impact_Score": 65,
+        "Annual_Revenue_k": 471
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79272,
+          49.206
+        ]
+      },
+      "properties": {
+        "ID": 238,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Theatre",
+        "Floor_Area_sqm": 483,
+        "Daily_Foot_Traffic": 1082,
+        "Community_Impact_Score": 68,
+        "Annual_Revenue_k": 226
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8445,
+          49.18842
+        ]
+      },
+      "properties": {
+        "ID": 239,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Electronics",
+        "Floor_Area_sqm": 274,
+        "Daily_Foot_Traffic": 2062,
+        "Community_Impact_Score": 77,
+        "Annual_Revenue_k": 547
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.77311,
+          49.18434
+        ]
+      },
+      "properties": {
+        "ID": 240,
+        "Neighborhood": "Unzoned",
+        "Category": "Retail",
+        "Subcategory": "Grocery",
+        "Floor_Area_sqm": 2406,
+        "Daily_Foot_Traffic": 1300,
+        "Community_Impact_Score": 96,
+        "Annual_Revenue_k": 4980
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84634,
+          49.18013
+        ]
+      },
+      "properties": {
+        "ID": 241,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Electronics",
+        "Floor_Area_sqm": 228,
+        "Daily_Foot_Traffic": 1233,
+        "Community_Impact_Score": 86,
+        "Annual_Revenue_k": 536
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69828,
+          49.24155
+        ]
+      },
+      "properties": {
+        "ID": 242,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Cold Storage",
+        "Floor_Area_sqm": 18967,
+        "Daily_Foot_Traffic": 376,
+        "Community_Impact_Score": 24,
+        "Annual_Revenue_k": 5890
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79041,
+          49.19808
+        ]
+      },
+      "properties": {
+        "ID": 243,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Bar",
+        "Floor_Area_sqm": 384,
+        "Daily_Foot_Traffic": 2307,
+        "Community_Impact_Score": 89,
+        "Annual_Revenue_k": 1020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90426,
+          49.16949
+        ]
+      },
+      "properties": {
+        "ID": 244,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Consulting Firm",
+        "Floor_Area_sqm": 709,
+        "Daily_Foot_Traffic": 609,
+        "Community_Impact_Score": 47,
+        "Annual_Revenue_k": 3940
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90617,
+          49.16208
+        ]
+      },
+      "properties": {
+        "ID": 245,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Software Firm",
+        "Floor_Area_sqm": 401,
+        "Daily_Foot_Traffic": 665,
+        "Community_Impact_Score": 43,
+        "Annual_Revenue_k": 1725
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79309,
+          49.19567
+        ]
+      },
+      "properties": {
+        "ID": 246,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Bar",
+        "Floor_Area_sqm": 333,
+        "Daily_Foot_Traffic": 2340,
+        "Community_Impact_Score": 84,
+        "Annual_Revenue_k": 390
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84864,
+          49.18511
+        ]
+      },
+      "properties": {
+        "ID": 247,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Clothing",
+        "Floor_Area_sqm": 72,
+        "Daily_Foot_Traffic": 2526,
+        "Community_Impact_Score": 87,
+        "Annual_Revenue_k": 153
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84053,
+          49.19207
+        ]
+      },
+      "properties": {
+        "ID": 248,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Cafe",
+        "Floor_Area_sqm": 166,
+        "Daily_Foot_Traffic": 2395,
+        "Community_Impact_Score": 78,
+        "Annual_Revenue_k": 379
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.71151,
+          49.23608
+        ]
+      },
+      "properties": {
+        "ID": 249,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Distribution Center",
+        "Floor_Area_sqm": 15833,
+        "Daily_Foot_Traffic": 424,
+        "Community_Impact_Score": 14,
+        "Annual_Revenue_k": 11348
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.80152,
+          49.18544
+        ]
+      },
+      "properties": {
+        "ID": 250,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Restaurant",
+        "Floor_Area_sqm": 482,
+        "Daily_Foot_Traffic": 2504,
+        "Community_Impact_Score": 78,
+        "Annual_Revenue_k": 723
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70399,
+          49.24593
+        ]
+      },
+      "properties": {
+        "ID": 251,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Distribution Center",
+        "Floor_Area_sqm": 7081,
+        "Daily_Foot_Traffic": 354,
+        "Community_Impact_Score": 26,
+        "Annual_Revenue_k": 3740
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70758,
+          49.23066
+        ]
+      },
+      "properties": {
+        "ID": 252,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Manufacturing Plant",
+        "Floor_Area_sqm": 10305,
+        "Daily_Foot_Traffic": 441,
+        "Community_Impact_Score": 28,
+        "Annual_Revenue_k": 2724
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70011,
+          49.24173
+        ]
+      },
+      "properties": {
+        "ID": 253,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Cold Storage",
+        "Floor_Area_sqm": 20620,
+        "Daily_Foot_Traffic": 420,
+        "Community_Impact_Score": 26,
+        "Annual_Revenue_k": 10740
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.87179,
+          49.14256
+        ]
+      },
+      "properties": {
+        "ID": 254,
+        "Neighborhood": "Unzoned",
+        "Category": "Office",
+        "Subcategory": "Software Firm",
+        "Floor_Area_sqm": 120,
+        "Daily_Foot_Traffic": 2044,
+        "Community_Impact_Score": 50,
+        "Annual_Revenue_k": 180
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90008,
+          49.15925
+        ]
+      },
+      "properties": {
+        "ID": 255,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Software Firm",
+        "Floor_Area_sqm": 1128,
+        "Daily_Foot_Traffic": 600,
+        "Community_Impact_Score": 48,
+        "Annual_Revenue_k": 6470
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.83586,
+          49.17997
+        ]
+      },
+      "properties": {
+        "ID": 256,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Electronics",
+        "Floor_Area_sqm": 224,
+        "Daily_Foot_Traffic": 1829,
+        "Community_Impact_Score": 78,
+        "Annual_Revenue_k": 489
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.83836,
+          49.18238
+        ]
+      },
+      "properties": {
+        "ID": 257,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Cafe",
+        "Floor_Area_sqm": 287,
+        "Daily_Foot_Traffic": 2315,
+        "Community_Impact_Score": 78,
+        "Annual_Revenue_k": 639
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.89283,
+          49.16321
+        ]
+      },
+      "properties": {
+        "ID": 258,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Software Firm",
+        "Floor_Area_sqm": 1073,
+        "Daily_Foot_Traffic": 685,
+        "Community_Impact_Score": 32,
+        "Annual_Revenue_k": 5660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90334,
+          49.16051
+        ]
+      },
+      "properties": {
+        "ID": 259,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Biotech Lab",
+        "Floor_Area_sqm": 1763,
+        "Daily_Foot_Traffic": 15,
+        "Community_Impact_Score": 32,
+        "Annual_Revenue_k": 6448
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90799,
+          49.16212
+        ]
+      },
+      "properties": {
+        "ID": 260,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Biotech Lab",
+        "Floor_Area_sqm": 1189,
+        "Daily_Foot_Traffic": 827,
+        "Community_Impact_Score": 41,
+        "Annual_Revenue_k": 6965
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70004,
+          49.24804
+        ]
+      },
+      "properties": {
+        "ID": 261,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Self-Storage",
+        "Floor_Area_sqm": 9651,
+        "Daily_Foot_Traffic": 361,
+        "Community_Impact_Score": 21,
+        "Annual_Revenue_k": 6155
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79308,
+          49.20152
+        ]
+      },
+      "properties": {
+        "ID": 262,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Art Gallery",
+        "Floor_Area_sqm": 84,
+        "Daily_Foot_Traffic": 1951,
+        "Community_Impact_Score": 77,
+        "Annual_Revenue_k": 153
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90311,
+          49.16215
+        ]
+      },
+      "properties": {
+        "ID": 263,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Biotech Lab",
+        "Floor_Area_sqm": 1082,
+        "Daily_Foot_Traffic": 433,
+        "Community_Impact_Score": 49,
+        "Annual_Revenue_k": 3689
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.78229,
+          49.19874
+        ]
+      },
+      "properties": {
+        "ID": 264,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Restaurant",
+        "Floor_Area_sqm": 120,
+        "Daily_Foot_Traffic": 666,
+        "Community_Impact_Score": 67,
+        "Annual_Revenue_k": 153
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.80256,
+          49.19427
+        ]
+      },
+      "properties": {
+        "ID": 265,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Bar",
+        "Floor_Area_sqm": 406,
+        "Daily_Foot_Traffic": 1249,
+        "Community_Impact_Score": 81,
+        "Annual_Revenue_k": 845
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69371,
+          49.243
+        ]
+      },
+      "properties": {
+        "ID": 266,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Cold Storage",
+        "Floor_Area_sqm": 19877,
+        "Daily_Foot_Traffic": 416,
+        "Community_Impact_Score": 5,
+        "Annual_Revenue_k": 4724
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.72781,
+          49.15797
+        ]
+      },
+      "properties": {
+        "ID": 267,
+        "Neighborhood": "Unzoned",
+        "Category": "Retail",
+        "Subcategory": "Grocery",
+        "Floor_Area_sqm": 390,
+        "Daily_Foot_Traffic": 690,
+        "Community_Impact_Score": 29,
+        "Annual_Revenue_k": 137
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90912,
+          49.16257
+        ]
+      },
+      "properties": {
+        "ID": 268,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Fintech Office",
+        "Floor_Area_sqm": 1518,
+        "Daily_Foot_Traffic": 605,
+        "Community_Impact_Score": 33,
+        "Annual_Revenue_k": 4586
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.83148,
+          49.19737
+        ]
+      },
+      "properties": {
+        "ID": 269,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Bookstore",
+        "Floor_Area_sqm": 79,
+        "Daily_Foot_Traffic": 1851,
+        "Community_Impact_Score": 83,
+        "Annual_Revenue_k": 241
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.786,
+          49.20227
+        ]
+      },
+      "properties": {
+        "ID": 270,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Art Gallery",
+        "Floor_Area_sqm": 178,
+        "Daily_Foot_Traffic": 2228,
+        "Community_Impact_Score": 71,
+        "Annual_Revenue_k": 306
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90339,
+          49.15707
+        ]
+      },
+      "properties": {
+        "ID": 271,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Software Firm",
+        "Floor_Area_sqm": 666,
+        "Daily_Foot_Traffic": 527,
+        "Community_Impact_Score": 47,
+        "Annual_Revenue_k": 2854
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90153,
+          49.16402
+        ]
+      },
+      "properties": {
+        "ID": 272,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Consulting Firm",
+        "Floor_Area_sqm": 366,
+        "Daily_Foot_Traffic": 677,
+        "Community_Impact_Score": 48,
+        "Annual_Revenue_k": 1559
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90003,
+          49.16343
+        ]
+      },
+      "properties": {
+        "ID": 273,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Consulting Firm",
+        "Floor_Area_sqm": 1303,
+        "Daily_Foot_Traffic": 844,
+        "Community_Impact_Score": 53,
+        "Annual_Revenue_k": 6444
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70427,
+          49.24451
+        ]
+      },
+      "properties": {
+        "ID": 274,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Self-Storage",
+        "Floor_Area_sqm": 22386,
+        "Daily_Foot_Traffic": 398,
+        "Community_Impact_Score": 13,
+        "Annual_Revenue_k": 13742
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79636,
+          49.20573
+        ]
+      },
+      "properties": {
+        "ID": 275,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Restaurant",
+        "Floor_Area_sqm": 160,
+        "Daily_Foot_Traffic": 1450,
+        "Community_Impact_Score": 69,
+        "Annual_Revenue_k": 297
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.83466,
+          49.18529
+        ]
+      },
+      "properties": {
+        "ID": 276,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Clothing",
+        "Floor_Area_sqm": 251,
+        "Daily_Foot_Traffic": 2464,
+        "Community_Impact_Score": 84,
+        "Annual_Revenue_k": 727
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8455,
+          49.17897
+        ]
+      },
+      "properties": {
+        "ID": 277,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Clothing",
+        "Floor_Area_sqm": 70,
+        "Daily_Foot_Traffic": 1640,
+        "Community_Impact_Score": 98,
+        "Annual_Revenue_k": 130
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.83004,
+          49.18461
+        ]
+      },
+      "properties": {
+        "ID": 278,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Electronics",
+        "Floor_Area_sqm": 140,
+        "Daily_Foot_Traffic": 2456,
+        "Community_Impact_Score": 74,
+        "Annual_Revenue_k": 349
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.697,
+          49.24038
+        ]
+      },
+      "properties": {
+        "ID": 279,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Self-Storage",
+        "Floor_Area_sqm": 9173,
+        "Daily_Foot_Traffic": 404,
+        "Community_Impact_Score": 9,
+        "Annual_Revenue_k": 6606
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90856,
+          49.15798
+        ]
+      },
+      "properties": {
+        "ID": 280,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Fintech Office",
+        "Floor_Area_sqm": 865,
+        "Daily_Foot_Traffic": 407,
+        "Community_Impact_Score": 44,
+        "Annual_Revenue_k": 5106
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9073,
+          49.15545
+        ]
+      },
+      "properties": {
+        "ID": 281,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Consulting Firm",
+        "Floor_Area_sqm": 1047,
+        "Daily_Foot_Traffic": 611,
+        "Community_Impact_Score": 45,
+        "Annual_Revenue_k": 3653
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.83742,
+          49.18173
+        ]
+      },
+      "properties": {
+        "ID": 282,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Bookstore",
+        "Floor_Area_sqm": 254,
+        "Daily_Foot_Traffic": 2454,
+        "Community_Impact_Score": 82,
+        "Annual_Revenue_k": 553
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91888,
+          49.15602
+        ]
+      },
+      "properties": {
+        "ID": 283,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Fintech Office",
+        "Floor_Area_sqm": 937,
+        "Daily_Foot_Traffic": 15,
+        "Community_Impact_Score": 40,
+        "Annual_Revenue_k": 3571
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90137,
+          49.15813
+        ]
+      },
+      "properties": {
+        "ID": 284,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Fintech Office",
+        "Floor_Area_sqm": 1790,
+        "Daily_Foot_Traffic": 987,
+        "Community_Impact_Score": 45,
+        "Annual_Revenue_k": 6724
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.70244,
+          49.24395
+        ]
+      },
+      "properties": {
+        "ID": 285,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Cold Storage",
+        "Floor_Area_sqm": 19623,
+        "Daily_Foot_Traffic": 396,
+        "Community_Impact_Score": 31,
+        "Annual_Revenue_k": 9856
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8425,
+          49.18105
+        ]
+      },
+      "properties": {
+        "ID": 286,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Cafe",
+        "Floor_Area_sqm": 72,
+        "Daily_Foot_Traffic": 1997,
+        "Community_Impact_Score": 97,
+        "Annual_Revenue_k": 220
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6852,
+          49.23992
+        ]
+      },
+      "properties": {
+        "ID": 287,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Manufacturing Plant",
+        "Floor_Area_sqm": 4387,
+        "Daily_Foot_Traffic": 339,
+        "Community_Impact_Score": 20,
+        "Annual_Revenue_k": 1855
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79073,
+          49.19936
+        ]
+      },
+      "properties": {
+        "ID": 288,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Cafe",
+        "Floor_Area_sqm": 437,
+        "Daily_Foot_Traffic": 1163,
+        "Community_Impact_Score": 67,
+        "Annual_Revenue_k": 814
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.77315,
+          49.19887
+        ]
+      },
+      "properties": {
+        "ID": 289,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Bar",
+        "Floor_Area_sqm": 327,
+        "Daily_Foot_Traffic": 1366,
+        "Community_Impact_Score": 72,
+        "Annual_Revenue_k": 475
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.78909,
+          49.19502
+        ]
+      },
+      "properties": {
+        "ID": 290,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Art Gallery",
+        "Floor_Area_sqm": 154,
+        "Daily_Foot_Traffic": 2223,
+        "Community_Impact_Score": 65,
+        "Annual_Revenue_k": 105
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84766,
+          49.18596
+        ]
+      },
+      "properties": {
+        "ID": 291,
+        "Neighborhood": "City Centre",
+        "Category": "Retail",
+        "Subcategory": "Clothing",
+        "Floor_Area_sqm": 78,
+        "Daily_Foot_Traffic": 2399,
+        "Community_Impact_Score": 80,
+        "Annual_Revenue_k": 155
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69647,
+          49.23988
+        ]
+      },
+      "properties": {
+        "ID": 292,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Cold Storage",
+        "Floor_Area_sqm": 24863,
+        "Daily_Foot_Traffic": 416,
+        "Community_Impact_Score": 21,
+        "Annual_Revenue_k": 14073
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90562,
+          49.16847
+        ]
+      },
+      "properties": {
+        "ID": 293,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Software Firm",
+        "Floor_Area_sqm": 552,
+        "Daily_Foot_Traffic": 565,
+        "Community_Impact_Score": 27,
+        "Annual_Revenue_k": 2131
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79806,
+          49.2048
+        ]
+      },
+      "properties": {
+        "ID": 294,
+        "Neighborhood": "Riverside Commons",
+        "Category": "Hospitality",
+        "Subcategory": "Restaurant",
+        "Floor_Area_sqm": 354,
+        "Daily_Foot_Traffic": 593,
+        "Community_Impact_Score": 58,
+        "Annual_Revenue_k": 562
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9021,
+          49.16234
+        ]
+      },
+      "properties": {
+        "ID": 295,
+        "Neighborhood": "Tech Corridor",
+        "Category": "Office",
+        "Subcategory": "Fintech Office",
+        "Floor_Area_sqm": 1113,
+        "Daily_Foot_Traffic": 354,
+        "Community_Impact_Score": 40,
+        "Annual_Revenue_k": 2476
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69311,
+          49.24992
+        ]
+      },
+      "properties": {
+        "ID": 296,
+        "Neighborhood": "Outer Industrial Park",
+        "Category": "Industrial",
+        "Subcategory": "Self-Storage",
+        "Floor_Area_sqm": 13975,
+        "Daily_Foot_Traffic": 360,
+        "Community_Impact_Score": 3,
+        "Annual_Revenue_k": 6536
+      }
+    }
+  ]
+}
